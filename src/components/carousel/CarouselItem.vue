@@ -7,7 +7,7 @@
       @mouseout="mouseout"
     >
       <img
-        class=" "
+       
         :src="require(`../../assets/images/header/${slide}.jpg`)"
         alt="headerImg"
       />
